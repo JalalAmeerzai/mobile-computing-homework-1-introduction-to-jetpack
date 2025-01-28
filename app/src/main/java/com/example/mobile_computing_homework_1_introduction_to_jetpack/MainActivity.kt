@@ -193,7 +193,7 @@ fun ProfileScreen(navController: NavHostController) {
                     modifier = Modifier.padding(top = 16.dp),
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
-                    Text(text = "Name: Jalal Ghaffar", fontSize = 20.sp)
+                    Text(text = "Full Name: Jalal Ghaffar", fontSize = 20.sp)
                     Text(text = "Email: jalal.ghaffar@student.oulu.fi", fontSize = 20.sp)
                     Text(text = "Student ID: 2315257", fontSize = 20.sp)
                 }
